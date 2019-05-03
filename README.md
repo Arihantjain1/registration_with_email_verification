@@ -21,4 +21,4 @@ to verify email just copy the email and code from **Verification Link**
 > to verify user _instruction_
 ![Verification instructions](https://github.com/Arihantjain1/registration_with_email_verification/blob/master/test/verification.png)
 
-@Arihantjain1  :sunglasses: This instruction is complete! go-ahead
+**@Arihantjain1**  :sunglasses: This instruction is complete! go-ahead

@@ -1,0 +1,32 @@
+{
+  "name": "registration_with_email_verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arihantjain1/registration_with_email_verification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arihantjain1/registration_with_email_verification/issues"
+  },
+  "homepage": "https://github.com/Arihantjain1/registration_with_email_verification#readme",
+  "dependencies": {
+    "ajv": "^6.10.0",
+    "ajv-errors": "^1.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5",
+    "node-mailer": "^0.1.1",
+    "rand-token": "^0.4.0"
+  }
+}

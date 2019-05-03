@@ -2,4 +2,4 @@
 //importing serverUtil file
 
 require('./serverutil');
-require('../config/dbconnectivity');
+// require('../config/dbconnectivity');

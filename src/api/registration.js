@@ -1,3 +1,7 @@
+/**
+* @Developed by @ArihantBhugari
+*/
+
 const User = require('../models/users');
 const validate = require('../utils/validateSchema');
 const registerSchema = require('../validationSchema/registerSchema.json');

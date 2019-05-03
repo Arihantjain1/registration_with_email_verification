@@ -1,3 +1,7 @@
+/**
+* @Developed by @ArihantBhugari
+*/
+
 module.exports = {
 	mailer: {
 		service: '', //service

@@ -1,3 +1,7 @@
+/**
+* @Developed by @ArihantBhugari
+*/
+
 const mongoQuery = require('../../mongoQuery/query2mongo');
 const message = require('../utils/enum');
 const randtoken = require('rand-token');
